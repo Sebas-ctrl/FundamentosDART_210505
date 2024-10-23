@@ -19,12 +19,13 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |9|Clases|9|✅Finalizada
 |10|Constructores nombrados|8|✅Finalizada
 |11|Getters y Setters|9|✅Finalizada
-|12|Aserciones|3|⭐Activa
+|12|Aserciones|3|✅Finalizada
 |13|Clases Abstractas|11|✅Finalizada
 |Tarea 05|Uso de las Clases Abstractas en el Caso de Estudio|10|⭐Activa
 |14|Mixins|11|✅Finalizada
 |15|Futures|7|✅Finalizada
 |15|Futures|7|✅Finalizada
+|16|Async Await|5|⭐Activa
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
