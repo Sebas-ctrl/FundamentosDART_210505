@@ -24,7 +24,6 @@ Proyecto de Clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |Tarea 05|Uso de las Clases Abstractas en el Caso de Estudio|10|⭐Activa
 |14|Mixins|11|✅Finalizada
 |15|Futures|7|✅Finalizada
-|15|Futures|7|✅Finalizada
 |16|Async Await|5|⭐Activa
 |17|Try, Catch, On y Finally|6|⭐Activa
 |18|Streams|6|⭐Activa
